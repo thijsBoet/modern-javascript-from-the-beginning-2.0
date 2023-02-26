@@ -1,6 +1,5 @@
-### OOP
----
-#### Four parts of OOP
+## OOP
+### Four parts of OOP
 
 1. Abstraction: This is the process of hiding the complexity of a system and presenting only the essential details of the system to the user. This allows the user to interact with the system without needing to understand how it works.
 
@@ -9,3 +8,7 @@
 3. Inheritance: This is the ability to create new classes based on existing ones. This allows the programmer to reuse code and reduces the amount of code that needs to be written.
 
 4. Polymorphism: This is the ability of an object to take on multiple forms. This allows the same code to be used to work with different types of objects, thus reducing the amount of code that needs to be written.
+
+### The this keyword
+
+The "this" keyword in JavaScript refers to the object that is currently executing the code. In other words, "this" refers to the object that owns the function or method that is being executed. It is often used to refer to the object that called the function, but the value of "this" can change depending on the context of the code.
